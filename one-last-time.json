@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0,
+    "end": 2,
+    "text": "I'm sorry, what?",
+    "zh": "抱歉，你说什么？"
+  },
+  {
+    "start": 2,
+    "end": 4.75,
+    "text": "One last time",
+    "zh": "最后一次"
+  },
+  {
+    "start": 4.75,
+    "end": 6.75,
+    "text": "Relax, have a drink with me",
+    "zh": "放松些，陪我喝一杯"
+  },
+  {
+    "start": 6.75,
+    "end": 9.5,
+    "text": "One last time",
+    "zh": "最后一次"
+  },
+  {
+    "start": 9.5,
+    "end": 12,
+    "text": "Let's take a break tonight",
+    "zh": "今晚让我们歇一歇"
+  },
+  {
+    "start": 12,
+    "end": 14.5,
+    "text": "And then we'll teach them\nhow to say goodbye",
+    "zh": "然后，我们会教他们如何告别"
+  },
+  {
+    "start": 14.5,
+    "end": 15.5,
+    "text": "To say goodbye",
+    "zh": "如何告别"
+  },
+  {
+    "start": 15.5,
+    "end": 20.833333,
+    "text": "You and I",
+    "zh": "你和我"
+  }
+]
